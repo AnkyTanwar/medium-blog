@@ -1,1 +1,3 @@
-# meduim-blog
+# medium-blog
+
+Author - Ankit Tawar
